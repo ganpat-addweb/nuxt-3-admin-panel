@@ -15,7 +15,7 @@ const table = reactive({
       field: "name",
       width: "10%",
       sortable: true,
-    },
+    }, 
     {
       label: "Email",
       field: "email",
